@@ -14,23 +14,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2021-10-08T12:35:36.667947",
-            "hasPart": [
-                {
-                    "@id": "OculusScreenshot1575039887.jpeg"
-                },
-                {
-                    "@id": "OculusScreenshot1575039909.jpeg"
-                }
-            ]
-        },
-        {
-            "@id": "OculusScreenshot1575039887.jpeg",
-            "@type": "File"
-        },
-        {
-            "@id": "OculusScreenshot1575039909.jpeg",
-            "@type": "File"
+            "datePublished": "2021-10-08T12:35:36.667947"
         }
     ]
 }
